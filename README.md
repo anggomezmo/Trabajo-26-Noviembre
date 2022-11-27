@@ -1,4 +1,4 @@
-# Trabajo #6 - 26 - Noviembre
+# Trabajo #6 (Final) - 26 - Noviembre
 
 ### Integrantes:
 |Nombre completo                       |Correo                  |Git user            |
